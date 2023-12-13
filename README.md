@@ -13,14 +13,31 @@ Dataset yang digunakan berasal dari kaggle dengan judul<a href="https://www.kagg
 
 Visualisasi menunjukkan wawasan tentang:
 
-- Perusahaan-perusahaan terkemuka dan frekuensi pemasangan lowongan pekerjaan.
-- Distribusi geografis peluang pekerjaan, dengan menyoroti negara-negara dengan pemasangan terbanyak.
-- Distribusi jenis pekerjaan (remote, onsite, hybrid).
-- Tren pemasangan berdasarkan hari dalam seminggu.
-- Wawasan gaji, termasuk kisaran minimum dan maksimum.
-- Persyaratan pengalaman dan distribusi persentase.
-- Keseimbangan antara penawaran pekerjaan kontrak dan penuh waktu.
-- Preferensi industri dan sektor-sektor paling umum.
+- Perusahaan-perusahaan terkemuka dan frekuensi posting lowongan pekerjaan. <br>
+<img src="images/1.png"/>
+
+- Distribusi geografis peluang pekerjaan, dengan menyoroti negara-negara dengan posting terbanyak. <br>
+<img src="images/2.png"/>
+
+- Distribusi jenis pekerjaan (remote, onsite, hybrid). <br>
+<img src="images/3.png"/>
+
+- Tren posting berdasarkan hari dalam seminggu. <br>
+<img src="images/4.png"/>
+
+- Wawasan gaji, termasuk kisaran minimum dan maksimum. <br>
+<img src="images/5.png"/>
+
+- Persyaratan pengalaman dan distribusi persentase. <br>
+<img src="images/6.png"/>
+
+- Keseimbangan antara penawaran pekerjaan kontrak dan penuh waktu. <br>
+<img src="images/7.png"/>
+
+- Preferensi industri dan sektor-sektor paling umum. <br>
+<img src="images/8.png"/>
+<img src="images/9.png"/>
+
 
 ## Kesimpulan
 
